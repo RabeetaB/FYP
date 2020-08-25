@@ -1,0 +1,43 @@
+
+#components-form-demo-normal-login .login-form {
+  width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+  float: left;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+  border: 1px solid var(--color10);
+}
+
+.login-div {
+    margin-top: 10em;
+    width: 300px;
+    margin-left: 10em;
+}
+.login-form {
+  border: 1px solid var(--color10);
+  padding: 4em;
+  border-radius: 20px;
+  height: 300px;
+}
+
+.login-form Button {
+  background-color: var(--color10);
+  border-radius: 3px;
+  color: white;
+}
+
+Button, Input:hover {
+  border-color: var(--color10);
+}
+
+.login {
+  color: var(--color10);
+  font-size: 22px;
+  font-weight: 600;
+  padding: 0%;
+}
